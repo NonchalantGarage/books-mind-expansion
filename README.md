@@ -22,7 +22,7 @@ Apollo,
 Heroku
 
 ## Screenshot
-![Screenshot](/projects/book-mind-expansion/assets/screenshot/savedbooks.png "Saved Books")
+![Screenshot](/assets/screenshot/savedbooks.png "Saved Books")
 
 
 ## License

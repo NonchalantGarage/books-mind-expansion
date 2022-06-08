@@ -1,6 +1,6 @@
 # Book Mind Expansion
 
-Book Mind Expansion is a project which required refactoring code fomr using a RESTful API model to using GraphQL and Apollo Server to take advantage of dynamic data requests. This app is built on the MERN stack with a React front end, MongoDB database, and Node.js/Express.js server and API. 
+Book Mind Expansion is a project which required refactoring code from using a RESTful API model to using GraphQL and Apollo Server to take advantage of dynamic data requests. This app is built on the MERN stack with a React front end, MongoDB database, and Node.js/Express.js server and API. 
 
 ## User Story
 
